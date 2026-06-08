@@ -23,8 +23,7 @@
     "Memorandum of Points and Authorities", 
     "Declaration of Johnny Appleseed"
   ),
-  action-filed: datetime(year: 2026, month: 4, day: 19),
-  font-settings: equity-ot-a,
+  action-filed: datetime(year: 2026, month: 4, day: 19)
 )
 
 Respondent Tol Wassman hereby applies for the Court to issue an order restraining Petitioner Lexi Mattick from disseminating the proprietary source code and trade secrets related to Respondent's software platform, TormentNexus.

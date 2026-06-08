@@ -151,7 +151,7 @@ Top-level (`=`) headings will be centered, capitalized, and placed on a new page
 
 ### Third-Level Headings
 
-I recommend that third-level headings and the text underneath them are indented. Due to limitations in Typst, the template can't do this automatically, but you can use the `#indent` utility:
+I recommend that you indent third-level headings and the text underneath them. Due to limitations in Typst, the template can't do this automatically, but you can use the `#indent` utility:
 
 ```typst
 == Heading 2
