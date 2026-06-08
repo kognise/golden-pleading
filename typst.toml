@@ -1,0 +1,14 @@
+[package]
+name = "golden-pleading"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Lexi Mattick <hi@kognise.dev>"]
+license = "MIT"
+description = "An elegant template for legal pleading paper in California courts."
+categories = ["office"]
+disciplines = ["law"]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"
