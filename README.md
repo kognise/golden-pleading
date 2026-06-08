@@ -4,7 +4,8 @@ A Typst library and template for legal pleading paper in California courts.
 
 Designed to look good while following the California Rules of Court pertaining to formatting, line numbers, footers, exhibits, and even a subset of the requirements for e-filed documents.
 
-_Disclaimer: I provide no guarantee that this template actually follows any rule, guideline, or regulation. My distribution of this template does not in any way constitute legal advice, nor does any of the template's documentation. You are entirely responsible for anything you make or file using the template. Any legal text used to demonstrate the template is only for illustration._
+> [!WARNING]
+> I provide no guarantee that this template actually follows any rule, guideline, or regulation. My distribution of this template does not in any way constitute legal advice, nor does any of the template's documentation. You are entirely responsible for anything you make or file using the template. Any legal text used to demonstrate the template is only for illustration.
 
 <img src='thumbnail.png' width='400'>
 
