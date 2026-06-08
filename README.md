@@ -250,7 +250,7 @@ Each entry in the index of exhibits is clickable and jumps to the first page of 
 
 ### Inserting Exhibits
 
-<img src='https://doggo.ninja/ltra82.png' width='200'>
+<img src='https://doggo.ninja/ltra82.png' width='250'>
 
 To insert an exhibit itself, use the `#exhibit` function.
 
