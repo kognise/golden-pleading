@@ -280,7 +280,7 @@ Supports two citations formats:
 
 Basic usage:
 
-```
+```typst
 #cite-exhibit("A")
 ```
 
