@@ -372,7 +372,7 @@
     }
 
     let diff = here().position().y - prev.location().position().y
-    if diff > line-height * 2 {
+    if diff > line-height + line-height + line-gap {
       return false
     }
 
